@@ -1,0 +1,442 @@
+body{
+    background: #131313;
+
+}
+.container2{
+    max-width:1171px;
+    max-height: 552px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 107px;
+
+}
+
+.container3{
+    width: 1263px;
+    margin: 0 auto;
+}
+
+.Rectangle3{
+    
+    height: 100%;
+    width: 100%;
+    background-repeat: round;
+    background: rgba(0, 0, 0, 0.7);
+    background-size: cover !important;
+    background-blend-mode: multiply;
+}
+
+.image4{
+    width: 100%;
+    height: 100%;
+}
+
+.Stepsuptitle{
+    width: 550px;
+    height: 105px;
+    color: #FFFFFF;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    text-transform: uppercase;
+    position: absolute;
+   margin-top: 194px;
+   margin-left: 134px;;
+}
+
+.rostock{
+    display: contents;
+    color: #E3B873;
+    font-family: 'Yeseva One', cursive;
+}
+
+.Steptitle{
+    position: absolute;
+    margin-top: 318px;
+    margin-left: 134px;
+    width: 504px;
+    height: 89px;
+    color: #FFFFFF;
+    font-family: Nunito Sans;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+
+}
+
+.Stepbutton{
+    position: absolute;
+    margin-top: 448px;
+    margin-left: 134px;
+width:207px;
+height:51px;
+background: #E3B873;
+border: none;
+box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+border-radius: 2px;
+font-family: Nunito Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 11px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.Stepbutton2{
+    position: absolute;
+    margin-top: 448px;
+    margin-left: 361px;
+width:207px;
+height:51px;
+background-color: initial;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 2px;
+font-family: Nunito Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 11px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.Complleted_project{
+height: 1074px;
+background-color: #131313;
+}
+
+.Grop22{
+    display: flex;
+    justify-content: end;
+
+}
+
+.Rostov{
+    padding-right: 22.5px;
+}
+
+.Sochi{
+    padding-right: 56px;
+}
+
+h2{
+    Width: 253px;
+    Height: 66px;
+    margin-top: 0px;
+    color:  #E3B873;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Yeseva One;
+    font-size: 27px;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+}
+
+h4{
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.Group232{
+    Width: 442px;
+}
+
+.Small{
+    padding-top: 34px;
+    width :442px;
+    height:86px;
+    color: #fff;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.city1, .city2{
+    padding-top: 42px;
+    width: 50%;
+}
+
+.city3, .city4{
+    width: 50%;
+}
+
+.city11{
+    color: #FFFFFF;
+    display: flex;
+}
+
+.city12{
+    color: #FFFFFF;
+    display: flex;
+    padding-top: 34px;
+}
+
+h3{
+    margin-bottom: 9px;
+    margin-top: 42px;
+    display: table-row;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+
+.Rectangle{
+    width: 205.68px;
+    height: 13.28px;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+}
+
+.Rectangle1{
+    display: flex;
+    height: 9.566811561584473px;
+    width: 63.777793884277344px;
+    border-radius: 30px;
+    justify-content: space-between;
+    align-self: center;
+
+}
+
+.Rectangle11{
+    height: 9.566666603088379px;
+    width: 9.566666603088379px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+
+}
+
+.Rectangle12, .Rectangle13{
+    height: 9.566666603088379px;
+    width: 9.566666603088379px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+
+.Rectangle1 .Rectangle12{
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+}
+
+
+.Arrow2{
+    height: 13.276084899902393px;
+width: 7.585609436035185px;
+border-radius: 0px;
+}
+
+.Arrow3{
+    height: 13.276084899902393px;
+    width: 7.585609436035185px;
+    transform: rotate(-180deg);
+}
+
+.glodline12{
+    height: 1px;
+width: 193.935546875px;
+background: #E3B873;
+
+
+}
+
+.Rostov{
+    display: flex;
+    font-family: Yeseva One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color:  #E3B873;
+text-transform: uppercase;
+}
+
+.Sochi{
+    font-family: Yeseva One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF4D;
+text-transform: uppercase;
+}
+
+.LeftRight{
+    display: flex;
+    width: 100%;
+    height: 528px;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+
+.rightProject{
+    width: 679px;
+    height: 482px;
+    align-self: end;
+
+}
+
+/* Собственно сам слайдер */
+.slider{
+    max-width: 80%;
+    position: relative;
+    
+    margin-top: 0px;
+    margin-bottom: 130px;
+    margin: auto;
+}
+/* Картинка мастабируется по отношению к родительскому элементу */
+.slider .item img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+/* Кнопки вперед и назад */
+.slider .prev, .slider .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+
+.slider .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+
+/* При наведении на кнопки добавляем фон кнопок */
+
+.slider .prev:hover,
+.slider .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+/* Заголовок слайда */
+.slideText {
+    position: absolute;
+    color: #fff;
+    font-size: 35px;
+    /* Выравнивание текста по горизонтали и по вертикали*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* Тень*/
+    text-shadow: 1px 1px 1px #000, 0 0 1em #000;
+}
+
+
+/* Кружочки */
+
+.slider-dots {
+  text-align: center;
+  display: flex;
+  height: 9.5px;
+  width: 63.7px;
+  border-radius: 30px;
+  justify-content: space-between;
+  align-self: center;
+ 
+}
+.slider-dots_item{
+    cursor: pointer;
+    height: 9.56px;
+    width: 9.56px;
+    margin: 0 2px;
+    background:rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active,
+.slider-dots_item:hover {
+    background-color: #aaa;
+}
+
+
+.Sochi:hover, .active1{
+    color: #E3B873;
+    background: none;
+    border-bottom: 1px solid;
+    padding-bottom: 5.6px;
+}
+
+
+/* Анимация слайдов */
+
+.slider .item {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
